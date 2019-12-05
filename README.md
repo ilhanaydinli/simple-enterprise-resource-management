@@ -2,6 +2,8 @@
 
 Simple Enterprise Resource Management / Basit Kurumsal Kaynak Yönetimi
 
+![](screenshot.png)
+
 ## Installation
 
 ```
